@@ -36,3 +36,11 @@ Esta sección contiene los principales análisis y herramientas desarrolladas. L
 - Estimación de Beta y correlación con el mercado
 - Análisis de retornos promedio ajustados por riesgo
 - Modelos GARCH para predicción de volatilidad
+
+- ###  Analizador Técnico Multi-Activo
+**Archivo**: `AnalizadorFinanciero.ipynb`
+- Análisis técnico comparativo de múltiples activos simultáneamente
+- Cálculo automático de indicadores SMA, RSI, MACD con histograma
+- Métricas de rendimiento y riesgo incluyendo ratio de Sharpe
+- Visualización matricial con tema oscuro para comparación sectorial
+- Herramienta ideal para gestión de portfolios y análisis educativo
